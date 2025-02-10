@@ -74,7 +74,6 @@ const App = () => {
         "https://cdn.dummyjson.com/products/images/groceries/Apple/1.png",
       ],
     },
-
     {
       id: 18,
       title: "Cat Food",

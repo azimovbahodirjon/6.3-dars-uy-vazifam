@@ -46,8 +46,8 @@ h2 {
   align-items: center;
 }
 
-p {
-  font-family: "sans-serif";
+.text {
+  font-family: "Playfair Display";
   color: #000000;
   margin-bottom: 5px;
 }
