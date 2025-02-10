@@ -1,6 +1,6 @@
 import { useState } from "react";
 import Title from "./components/Title";
-import Product from "./components/product";
+import Product from "./components/Product";
 
 const App = () => {
   const [products, setProducts] = useState([
